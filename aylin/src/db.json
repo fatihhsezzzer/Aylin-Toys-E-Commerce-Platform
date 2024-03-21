@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Renkli Yapı Blokları",
+      "price": 29.99,
+      "description": "Çocukların hayal gücünü geliştiren, 50 parça renkli yapı blokları.",
+      "sku": "BLK-001",
+      "tags": ["blok", "eğitici", "renkli"],
+      "category": "Eğitici Oyuncaklar",
+      "image": "aylin/public/assets/img/shop/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pelüş Ayı",
+      "price": 19.99,
+      "description": "Sevimli ve yumuşak, çocukların en iyi arkadaşı olmaya aday pelüş ayı.",
+      "sku": "PLY-002",
+      "tags": ["pelüş", "ayı", "yumuşak"],
+      "category": "Pelüş Oyuncaklar",
+      "image": "https://example.com/images/pelus-ayi.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mini Drone",
+      "price": 49.99,
+      "description": "Çocuklar için güvenli ve kolay kullanımlı mini drone. Hava fotoğrafçılığına ilk adım!",
+      "sku": "DRN-003",
+      "tags": ["drone", "uçan", "teknolojik"],
+      "category": "Elektronik Oyuncaklar",
+      "image": "https://example.com/images/mini-drone.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Robot Oyuncak",
+      "price": 35.99,
+      "description": "Interaktif özelliklere sahip eğlenceli robot oyuncak.",
+      "sku": "ROB-004",
+      "tags": ["robot", "interaktif", "teknolojik"],
+      "category": "Elektronik Oyuncaklar",
+      "image": "https://example.com/images/robot-oyuncak.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ahşap Puzzle",
+      "price": 15.99,
+      "description": "Doğal ahşaptan yapılmış, çocukların problem çözme yeteneklerini geliştiren puzzle.",
+      "sku": "PUZ-005",
+      "tags": ["puzzle", "ahşap", "eğitici"],
+      "category": "Eğitici Oyuncaklar",
+      "image": "https://example.com/images/ahsap-puzzle.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Uzaktan Kumandalı Araba",
+      "price": 29.99,
+      "description": "Hızlı ve dayanıklı, her zeminde kullanıma uygun uzaktan kumandalı araba.",
+      "sku": "CAR-020",
+      "tags": ["araba", "uzaktan kumandalı", "dayanıklı"],
+      "category": "Oyuncak Arabalar",
+      "image": "https://example.com/images/uzaktan-kumandali-araba.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Uzaktan Kumandalı Helikopter",
+      "price": 45.99,
+      "description": "Çocuklar için eğlenceli ve kolay kullanımlı uzaktan kumandalı helikopter.",
+      "sku": "HEL-020",
+      "tags": ["helikopter", "uzaktan kumandalı", "uçan oyuncak"],
+      "category": "Uzaktan Kumandalı Oyuncaklar",
+      "image": "https://example.com/images/uzaktan-kumandali-helikopter.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Deniz Kızı Barbie",
+      "price": 25.99,
+      "description": "Renkli kuyruğu ve saçları ile harika bir deniz kızı Barbie.",
+      "sku": "BRB-019",
+      "tags": ["barbie", "deniz kızı", "bebek"],
+      "category": "Barbie Bebekler",
+      "image": "https://example.com/images/deniz-kizi-barbie.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ahşap Tren Seti",
+      "price": 40.99,
+      "description": "Kreatif oyunlar için mükemmel, dayanıklı ahşap tren seti.",
+      "sku": "TRN-004",
+      "tags": ["ahşap", "tren", "kreatif"],
+      "category": "Oyuncak Trenler",
+      "image": "https://example.com/images/ahsap-tren-seti.jpg"
+    }
+  ]
+}
