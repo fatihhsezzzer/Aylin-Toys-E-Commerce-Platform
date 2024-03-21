@@ -35,17 +35,21 @@ Set up the platform on your local machine by following these steps:
 
 ## Set Up the Backend:
 Navigate to the API directory:
-
+   ```sh
 cd ProductManagementWebApi/api
 dotnet restore
 
 ## Set Up the Frontend:
 Switch to the client directory and install the required Node modules:
+   ```sh
+
 cd aylin/client
 npm install
 
 ## Start the Application:
 Launch both the backend and frontend:
+   ```sh
+
 # In the api directory
 dotnet run
 
