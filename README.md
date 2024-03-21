@@ -38,6 +38,7 @@ Navigate to the API directory:
    ```sh
 cd ProductManagementWebApi/api
 dotnet restore
+```
 
 ## Set Up the Frontend:
 Switch to the client directory and install the required Node modules:
@@ -45,16 +46,19 @@ Switch to the client directory and install the required Node modules:
 
 cd aylin/client
 npm install
+   ```
 
 ## Start the Application:
 Launch both the backend and frontend:
    ```sh
-
 # In the api directory
 dotnet run
+   ```
 
 # In the client directory
+   ```sh
 npm start
+   ```
 
 Contribution
 Your contributions are welcome:
