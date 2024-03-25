@@ -1,6 +1,6 @@
 # Aylin Toys E-Commerce Platform
 
-![Resmin Açıklaması](https://github.com/fatihhsezzzer/Images/blob/main/aylin.png))
+![HomePage](https://github.com/fatihhsezzzer/Images/blob/main/aylin.png))
 
 
 ## Overview
