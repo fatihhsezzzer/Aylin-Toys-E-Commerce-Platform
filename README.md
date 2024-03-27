@@ -1,19 +1,18 @@
 # Aylin Toys E-Commerce Platform
 
-![HomePage](https://github.com/fatihhsezzzer/Images/blob/main/aylin.png))
-
+![HomePage](https://github.com/fatihhsezzzer/Images/blob/main/aylin.png)
 
 ## Overview
 
-The Aylin Toys E-Commerce Platform is developed using ASP.NET Core API for backend services and React for the front end. This blend offers a secure and intuitive shopping experience, allowing users to explore, wishlist, and purchase toys through a user-friendly interface, which is designed with a minimalist approach to enhance user engagement and simplify navigation.
+The Aylin Toys E-Commerce Platform is developed using ASP.NET Core API for backend services and React for the front end. This combination offers a secure and intuitive shopping experience, allowing users to explore, wishlist, and purchase toys through a user-friendly interface. The design follows a minimalist approach to enhance user engagement and simplify navigation.
 
 ## Features
 
 ### User Interface
 
-- **Account Management**: Provides users with the ability to manage their profiles, view transaction history, update payment methods, and edit personal information seamlessly.
-- **Product Exploration**: Detailed views on each product, including features, pricing, and customer reviews, to aid in making informed purchasing decisions.
-- **Favorites**: Allows users to bookmark their favorite products, making it easier to return to products they are interested in without having to search for them again.
+- **Account Management**: Enables users to manage their profiles, view transaction history, update payment methods, and edit personal information.
+- **Product Exploration**: Provides detailed views of each product, including features, pricing, and customer reviews, to help make informed purchasing decisions.
+- **Favorites**: Allows users to bookmark their favorite products for easy access later.
 
 ### Functionality
 
